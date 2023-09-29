@@ -1,0 +1,4 @@
+baseURL = 'https://www.tinapenguina.com/'
+languageCode = 'en-us'
+title = 'TinaPenguina'
+theme = 'ananke'
